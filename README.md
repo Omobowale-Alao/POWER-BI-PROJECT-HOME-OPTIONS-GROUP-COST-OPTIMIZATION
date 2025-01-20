@@ -7,7 +7,9 @@ The report provides actionable recommendations for optimizing IT costs and impro
 **Key Features:**
 
 Breakdown of budget vs. forecast analysis
+
 Identification of high-cost areas and regions
+
 Cost optimization strategies for IT operations
 
 For questions, feedback, or contributions, feel free to reach out via +447900910071. 
