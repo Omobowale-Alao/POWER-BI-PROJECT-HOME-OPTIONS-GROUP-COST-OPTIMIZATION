@@ -1,4 +1,4 @@
-**IT Department Cost Optimization Report for Home Options Group**
+**IT DEPARTMENT COST OPTIMIZATION REPORT FOR HOME OPTIONS GROUP**
 
 This repository contains a report and analysis on the cost management of the IT department of Home Options Group, focusing on the alignment between actual costs and the budget/forecast. The analysis highlights key areas such as administrative and labour costs, with particular attention to the impact of external labour and the USA region's significant cost variance.
 
