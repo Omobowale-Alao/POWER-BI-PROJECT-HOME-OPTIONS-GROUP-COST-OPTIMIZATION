@@ -12,6 +12,8 @@ Identification of high-cost areas and regions
 
 Cost optimization strategies for IT operations
 
+
+
 For questions, feedback, or contributions, feel free to reach out via +447900910071. 
 
 Thank you. 
